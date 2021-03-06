@@ -8,6 +8,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=black" />
   <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=black" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
@@ -17,6 +18,7 @@
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+  <img alt="Chrome" src="https://img.shields.io/badge/-Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white" />
   <!-- img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
   <!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
   <!-- <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
