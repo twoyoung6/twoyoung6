@@ -18,9 +18,9 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
-  <img alt="Chrome" src="https://img.shields.io/badge/-Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white" />
+  <img alt="Chrome" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" />
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache ECharts-AA344D?style=flat-square&logo=Apache ECharts&logoColor=white" />
   <!-- img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
   <!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
